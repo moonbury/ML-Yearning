@@ -1,4 +1,4 @@
-## ML-Yearning
+## Andrew Ng ML-Yearning
 
 1. Why Machine Learning Strategy
 2. How to use this book to help your team
